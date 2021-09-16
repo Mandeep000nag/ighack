@@ -24,13 +24,13 @@
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install python2 -y`
-* 'pkg install unzip -y'
+* `pkg install unzip -y'
 * `pkg install git -y`
 * `pip install lolcat`
 * `git clone https://github.com/Mandeep000nag/ighack`
 * `cd $HOME`
 * `ls`
-* 'inzip ighack.zip'
+* `unzip ighack.zip'
 * `cd ighack`
 * `ls`
 * `bash setup`
